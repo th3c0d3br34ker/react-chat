@@ -32,7 +32,7 @@ function App() {
       <header>
         <h1>
           <span role="img" aria-label="Heading">
-            Jainam ⚛️ 💬 App
+            Jainam's 💬 App
           </span>
         </h1>
         <SignOut />
